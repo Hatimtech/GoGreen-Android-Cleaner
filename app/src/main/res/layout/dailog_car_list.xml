@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:background="@drawable/assignment_drawalbe">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:gravity="center"
+            android:text="@string/select_reason"
+            android:textColor="@color/textcolor"
+            android:textSize="@dimen/Size4" />
+
+
+        <android.support.v7.widget.RecyclerView
+
+            android:id="@+id/car_list_recycle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:layout_marginEnd="25dp"
+            android:layout_marginStart="25dp"
+           />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+
+                android:id="@+id/dialog_cancle"
+                android:layout_marginStart="15dp"
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:padding="15dp"
+                android:text="Cancel"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/Size4" />
+            <TextView
+
+                android:id="@+id/dialog_ok"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="25dp"
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:padding="15dp"
+                android:text="@string/ok"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/Size4" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

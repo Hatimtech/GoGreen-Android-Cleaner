@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#70ab0d</color>
+    <color name="colorPrimaryDark">#70ab0d</color>
+    <color name="colorAccent">#70ab0d</color>
+
+    <color name="white_alpha">#7bffffff</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_inactive_screen1">#FF4081</color>
+    <color name="dot_inactive_screen2">#008c57</color>
+    <color name="dot_inactive_screen3">#0e1e49</color>
+    <!-- dots active colors -->
+    <color name="dot_active_screen1">#f9c772</color>
+    <color name="dot_active_screen2">#74f7c5</color>
+    <color name="dot_active_screen3">#3a67e0</color>
+    <array name="array_dot_active">
+        <item>@color/dot_active_screen1</item>
+        <item>@color/dot_active_screen2</item>
+        <item>@color/dot_active_screen3</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>@color/dot_inactive_screen1</item>
+        <item>@color/dot_inactive_screen2</item>
+        <item>@color/dot_inactive_screen3</item>
+
+
+    </array>
+
+    <color name="buttonendcolor"> #70ab0d </color>
+    <color name="buttoncentercolor">#bbd545 </color>
+    <color name="buttonstartcolor">#70ab0d</color>
+    <color name="white">#fff</color>
+
+    <color name="textcolor">#231f20</color>
+    <color name="viewColor">#aaaaaa</color>
+</resources>

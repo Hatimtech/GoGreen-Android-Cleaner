@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">GoGreen Cleaner</string>
+    <string name="prg_dial_pleaseWait"> Please Wait</string>
+    <string name="ok">ok</string>
+
+
+    <!--login  Activity-->
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="mobile_number">MOBILE NUMBER</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="name">NAME</string>
+    <string name="login">LOGIN</string>
+    <string name="signup"><u>SIGN UP</u></string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="enteremail">Enter Your Email</string>
+    <string name="enterphone">Enter Your Mobile Number</string>
+    <string name="enterpassword">Enter Your Password</string>
+    <string name="enterName">Enter Your Name</string>
+    <string name="VolleyError">Please check you internet connection and try again</string>
+
+    <!--Forgot Password-->
+
+    <string name="alert_forgotPassword">Enter  your  mobile number and we\'ll send  you an OTP on your number to reset your password.
+    </string>
+    <string name="toolbar">Forgot Password</string>
+    <string name="send">Send</string>
+
+
+    <!--Assignment-->
+    <string name="assignment">Assignment</string>
+    <string name="carDetail">Car Detail</string>
+    <string name="customerDetail">Customer Detail</string>
+    <string name="packageDetail">Task Detail</string>
+    <string name="attended">ATTENDED</string>
+    <string name="notAttended">NOT ATTENDED</string>
+
+
+    <!--Setting-->
+    <string name="updateInfo">Update Info</string>
+    <string name="change_password">Change Password</string>
+    <string name="contact_admin">Contact Admin</string>
+    <string name="logout">Logout</string>
+    <string name="Settings">Settings</string>
+
+    <!--Change Password-->
+    <string name="enteroldpassword">Enter your Old Password</string>
+    <string name="enternewpassword">Enter your New Password</string>
+    <string name="enterconfirmpassword">Confirm Password</string>
+    <string name="oldpassword">OLD PASSWORD</string>
+    <string name="newpassword">NEW PASSWORD</string>
+    <string name="confirmpassword">CONFIRM PASSWORD</string>
+    <string name="changePassword">Change Password</string>
+    <string name="updatePassword">Update Password</string>
+
+    <!--DashBoard-->
+    <string name="dashBoard">Dashboard</string>
+    <string name="today">Todays</string>
+    <string name="complete">Completed</string>
+    <string name="remaining">Remaining</string>
+    <string name="chkAssignment">Check Assignment</string>
+    <string name="order_summery">Orders Summary</string>
+
+    <!--Assignments-->
+    <string name="Current">Current</string>
+    <string name="past">Past</string>
+    <string name="Payment">Payment</string>
+    <string name="Assignments">Assignments</string>
+    <string name="status">Status :</string>
+    <string name="amount">Amount :</string>
+    <string name="viewMore">View More</string>
+    <string name="viewLess">View Less</string>
+    <string name="orderId">Order ID :</string>
+    <string name="collected">Collected</string>
+    <string name="pending">Pending</string>
+    <string name="completed">Completed</string>
+    <string name="cureent_task_not_exist">Current task does not exist</string>
+
+    <!--OTP Screen-->
+    <string name="verify_number">Verify Your Number</string>
+    <string name="sendtext">We have sent an OTP on your mobile number. Please enter the received OTP for validation.</string>
+    <string name="number"> .</string>
+    <string name="resendotp"><u>Resend OTP</u> </string>
+    <string name="verify">Verify</string>
+    <string name="pin_content_desc">PIN input field</string>
+    <string name="wrongnumber">Wrong number ?</string>
+    <string name="collected_money"> Have you collected the cash from customer ?</string>
+
+    <!--Alert-->
+
+    <string name="phoneAlert">Please enter a mobile number.</string>
+    <string name="alert_email">Please enter an email address.</string>
+    <string name="alert_email_valid">Please enter a valid email format.</string>
+    <string name="validPhoneAlert">Please enter a valid mobile number.</string>
+    <string name="validPasswordAlert">Password length should be 6 to 16."</string>
+    <string name="passwordAlert"> Please enter a password.</string>
+    <string name="samePasswordAlert">Entered password do not match.</string>
+    <string name="validOtp">Please enter a the valid OTP.</string>
+    <string name="logoutAlert">Do you want to logout ?</string>
+    <string name="firstnameAlert">Please enter a first name.</string>
+    <string name="lastnameAlert">Please enter a last name.</string>
+    <string name="select_reason">Please provide the reason. </string>
+
+    <!--UpdateInfo-->
+    <string name="firstname">FIRST NAME</string>
+    <string name="enterFirstname">Enter your first name</string>
+    <string name="lastname">LAST NAME</string>
+    <string name="enterlastname">Enter your last name</string>
+    <string name="updateProfile">Update Profile</string>
+    <string name="enterAmount">Enter Amount</string>
+    <string name="Amount"> Amount</string>
+    <string name="alert_Amount"> Please enter the amount collected by customer.</string>
+    <string name="alert_Amount1"> You can\'t enter the amount more than the collectable amount .</string>
+</resources>

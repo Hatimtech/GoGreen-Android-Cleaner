@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="size15dp">15dp</dimen>
+    <dimen name="Size1">10dp</dimen>
+    <dimen name="Size2">10dp</dimen>
+    <dimen name="Size3">13dp</dimen>
+    <dimen name="Size4">17dp</dimen>
+    <dimen name="Size5">20dp</dimen>
+    <dimen name="btn_size1"> </dimen>
+
+</resources>
